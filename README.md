@@ -55,3 +55,5 @@ java teste
 3. Siga as instruções no terminal:
 Digite o número do aluno
 Escolha o que deseja exibir
+
+Desenvolvido por Gustavo Henrique Estudante de Engenharia.
